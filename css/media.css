@@ -1,0 +1,127 @@
+@media(max-width: 700px){
+    .arrows {
+        display: none;
+    }
+
+    .navigation li {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    .content h2 {
+        font-size: 2rem;
+    }
+    
+    .content p {
+        font-size: 1rem;
+        margin-bottom: 40px;
+        padding: 0 10px;
+        width: 250px;
+    }
+    
+    .content a {
+        font-size: .8rem;
+        padding: 5px 10px;
+    }
+
+    .section-content h1, h3{
+        padding-bottom: 15px;
+        line-height: 1.4rem;
+    }
+    
+    .section-content p {
+        padding: 0 10%;
+        font-size: 1rem;
+    }
+    
+    .section-content h1 {
+        font-size: 2rem;
+    }
+
+
+    .section2-content h3{
+        font-size: 1.1rem;
+        margin-top: 10%;
+    }
+    
+    .section2-content h1 {
+        font-size: 1.4rem;
+        padding-bottom: 10px;
+    }
+
+    .section2-content h1, h3{
+        line-height: 1.4rem;
+    }
+
+    .section2-content p {
+        font-size: .8rem;
+        margin: 0;
+    }
+    
+    #products {
+        margin-top: 30px;
+    }
+
+    .row {
+        margin: 0 80px;
+    }
+    
+    .col {
+        padding: 10px;
+    }
+
+    #products h1 {
+        font-size: 2rem;
+    }
+
+    #about-us h3 {
+        font-size: 2rem;
+    }
+
+    .about-us p{
+        font-size: .8rem;
+    }
+
+    #about-us {
+        min-height: 350px;
+    }
+
+    #contact {
+        padding: 30px;
+    }
+    
+    .touch {
+       padding: 30px;
+    }
+
+    #contact h1{
+        font-size: 2rem;
+        line-height: 1.4rem;
+    }
+    
+    #contact p {
+        font-size: 1rem;
+    }
+    
+    #contact a{
+        font-size: 2rem;
+        padding: 0 10px;
+    }
+
+    .touch h1 {
+        font-size: 2rem;   
+        line-height: 1.4rem;   
+    }
+
+    .footer {
+        font-size: .8rem;
+    }
+
+    .touch form {
+        width: 100%;
+    }
+}
